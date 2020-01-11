@@ -1,0 +1,22 @@
+{
+  "name": "express_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilo992/express_node.js.git"
+  },
+  "author": "danilo tadeu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilo992/express_node.js/issues"
+  },
+  "homepage": "https://github.com/danilo992/express_node.js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
